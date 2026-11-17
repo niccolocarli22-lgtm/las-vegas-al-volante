@@ -4,12 +4,12 @@
  * dei file. Dopo la prima apertura tutto il sito sta nella memoria del dispositivo: l'app parte anche quando non
  * c'è rete. Quando il sito cambia, la versione cambia e la prossima apertura usa i file nuovi.
  */
-const VERSION = '890ec26fee28';
+const VERSION = '0c1ccb4e6c06';
 const CACHE = `guida-${VERSION}`;
 const CARATTERI = 'guida-caratteri';
 const FILES = [
-  "assets/guida-CVcYgKn2.css",
-  "assets/guida-CrVK0tcV.js",
+  "assets/guida-CQ5dct9c.js",
+  "assets/guida-hDvdusWS.css",
   "cities/152.json",
   "icons/apple-touch-icon.png",
   "icons/favicon-32.png",
